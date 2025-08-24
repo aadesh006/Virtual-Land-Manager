@@ -1,0 +1,17 @@
+[project]
+name = "virtual-land-manager"
+description = "A metaverse real estate platform"
+authors = []
+telemetry = false
+cache_dir = "./.cache"
+requirements = []
+
+[contracts.virtual-land-nft]
+path = "contracts/virtual-land-nft.clar"
+clarity_version = 3
+epoch = "3.0"
+
+[contracts.marketplace]
+path = "contracts/marketplace.clar"
+clarity_version = 3
+epoch = "3.0"
