@@ -2,7 +2,7 @@
 
 A decentralized application (dApp) for buying and selling virtual land parcels as NFTs on the Stacks blockchain. This project was built to demonstrate core concepts of Clarity smart contracts, frontend integration with Stacks.js, and deployment to a live test network.
 
-![App Screenshot](screenshot/ss1.png)
+![App Screenshot](screenshot/ss4.png)
 
 ## Features
 
